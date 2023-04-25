@@ -103,7 +103,7 @@ public class ExcelFileUtil {
 			System.out.println(fname+"     "+mname+"     "+lname+"      "+eid);
 			//xl.setCelldata("Emp", i, 4, "Pass", "D:/Results.xlsx");
 			//xl.setCelldata("Emp", i, 4, "Fail", "D:/Results.xlsx");
-			xl.setCelldata("Emp", i, 4, "Blocked", "D:/Results.xlsx");
+			xl.setCelldata("Emp", i, 4, "Blocked", "D:/Res.xlsx");
 		}
 		
 	}
